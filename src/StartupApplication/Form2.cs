@@ -14,7 +14,6 @@ namespace StartupApplication
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            IsInStartup();
             checkBox1.Checked = IsInStartup();
         }
         bool IsInStartup()
