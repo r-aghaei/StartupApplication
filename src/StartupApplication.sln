@@ -10,6 +10,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F00FB269-94BC-47FA-8738-97119387E6E1}"
 	ProjectSection(SolutionItems) = preProject
 		..\README.md = ..\README.md
+		..\StartupWithCode.png = ..\StartupWithCode.png
+		..\StartupWithSetup.png = ..\StartupWithSetup.png
 	EndProjectSection
 EndProject
 Global

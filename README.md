@@ -14,4 +14,7 @@ In this example, I'll do above using two different ways:
 1. Creating a Setup project to install the application and put in startup
 2. Adding the shortcut to the startup foler using code
 
+![](StartupWithCode.png)
+![](StartupWithSetup.png)
+
 
